@@ -8,13 +8,14 @@
 <a href="https://www.instagram.com/_im_wheezing/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="www.linkedin.com/in/niranj-rajesh-b97361196"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 
-  </div>
+</div>
 
 <br/>
 
 <img align="right" height="240px" width="250px" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="coding_gif">
 
 ```yaml
+
 More about me
 ------------------------------------------
 Name: Niranj
@@ -22,6 +23,7 @@ Lastname: Raj
 Nickname: Kiki
 Gender: Male
 Age: 21
+education: Currently pursuing Bachelor's in Technology
 Hobbies:  ["Coding"], ["Movies"], ["Gaming"], ["Music"], ["Ricing"]
 Ask me: ["Web Dev"], ["Linux"], ["Tech"]
 Occupation: Kerala,India
