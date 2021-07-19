@@ -31,7 +31,7 @@ Description: A passionate self-taught full stack web developer
 
 <br/>
 
-**Language and Tools**
+### Language and Tools
 
 <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40px">
@@ -62,11 +62,12 @@ Description: A passionate self-taught full stack web developer
 </div>
 
 <br/>
+<br/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjraj&show_icons=true&hide_border=true&theme=radical">
 
 ```yaml
-    niranj@arch
+    System information
     ----------------------
     OS: Arch Linux x86_64
     Kernel: 5.12.5-arch1-1
@@ -80,11 +81,13 @@ Description: A passionate self-taught full stack web developer
     GPU: Intel UHD Graphics
     Memory: 2054MiB / 7634MiB
 ```
+<br/>
+<br/>
 
 ### Highlight Projects
 
 <a href="https://github.com/niranjraj/invoice-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=niranjraj&repo=invoice-app&title_color=FB408B&text_color=A8FDF6&bg_color=141321&hide_border=true"></a>
 <a href="https://github.com/niranjraj/Supplyco-web-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=niranjraj&repo=Supplyco-web-app&title_color=FB408B&text_color=A8FDF6&bg_color=141321&hide_border=true"></a>
 
-<a  href="https://github.com/niranjraj/Dotfiles"><img  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=niranjraj&repo=Dotfiles&title_color=FB408B&text_color=A8FDF6&bg_color=141321&hide_border=true"></a>
+<a  href="https://github.com/niranjraj/Dotfiles"><img   src="https://github-readme-stats.vercel.app/api/pin/?username=niranjraj&repo=Dotfiles&title_color=FB408B&text_color=A8FDF6&bg_color=141321&hide_border=true"></a>
 
