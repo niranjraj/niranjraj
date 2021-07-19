@@ -14,18 +14,18 @@
 
 <img align="right" height="245px" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="coding_gif">
 
-```bash
-    More about me
-    ------------------------------------------
-    Name: Niranj
-    Lastname: Raj
-    Nickname: Kiki
-    Gender: Male
-    Age: 21
-    Hobbies:  ["Coding"], ["Movies"], ["Gaming"], ["Music"], ["Ricing"]
-    Ask me: ["Web Dev"], ["Linux"], ["Tech"]
-    Occupation: Kerala,India
-    Description: A passionate self-taught full stack web developer
+```yaml
+More about me
+------------------------------------------
+Name: Niranj
+Lastname: Raj
+Nickname: Kiki
+Gender: Male
+Age: 21
+Hobbies:  ["Coding"], ["Movies"], ["Gaming"], ["Music"], ["Ricing"]
+Ask me: ["Web Dev"], ["Linux"], ["Tech"]
+Occupation: Kerala,India
+Description: A passionate self-taught full stack web developer
 ```
 
 <br/>
@@ -64,7 +64,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjraj&show_icons=true&hide_border=true&theme=radical">
 
-```bash
+```yaml
     niranj@arch
     ----------------------
     OS: Arch Linux x86_64
