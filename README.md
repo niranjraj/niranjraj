@@ -12,7 +12,7 @@
 
 <br/>
 
-<img align="right" height="245px" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="coding_gif">
+<img align="right" height="240px" width="250px" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" alt="coding_gif">
 
 ```yaml
 More about me
@@ -26,6 +26,7 @@ Hobbies:  ["Coding"], ["Movies"], ["Gaming"], ["Music"], ["Ricing"]
 Ask me: ["Web Dev"], ["Linux"], ["Tech"]
 Occupation: Kerala,India
 Description: A passionate self-taught full stack web developer
+
 ```
 
 <br/>
