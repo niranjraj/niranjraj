@@ -90,6 +90,5 @@ Description: A passionate self-taught full stack web developer
 
 <a href="https://github.com/niranjraj/invoice-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=niranjraj&repo=invoice-app&title_color=FB408B&text_color=A8FDF6&bg_color=141321&hide_border=true"></a>
 <a href="https://github.com/niranjraj/Supplyco-web-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=niranjraj&repo=Supplyco-web-app&title_color=FB408B&text_color=A8FDF6&bg_color=141321&hide_border=true"></a>
-
 <a  href="https://github.com/niranjraj/Dotfiles"><img   src="https://github-readme-stats.vercel.app/api/pin/?username=niranjraj&repo=Dotfiles&title_color=FB408B&text_color=A8FDF6&bg_color=141321&hide_border=true"></a>
-
+<a  href="https://github.com/niranjraj/PersonalPortfolio-2022"><img   src="https://github-readme-stats.vercel.app/api/pin/?username=niranjraj&repo=PersonalPortfolio-2022&title_color=FB408B&text_color=A8FDF6&bg_color=141321&hide_border=true"></a>
