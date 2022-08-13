@@ -7,7 +7,7 @@
 
 <a href="https://www.instagram.com/_im_wheezing/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="www.linkedin.com/in/niranj-rajesh-b97361196"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-
+<a href="www.niranjraj.me" >NiranjRaj.me</a>
 </div>
 
 <br/>
