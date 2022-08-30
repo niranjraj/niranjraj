@@ -22,7 +22,7 @@ Name: Niranj
 Lastname: Raj
 Nickname: Kiki
 Gender: Male
-Age: 21
+Age: 23
 education: Currently pursuing Bachelor's in Technology
 Hobbies:  ["Coding"], ["Football"], ["Movies"], ["Gaming"], ["Music"], ["Ricing"]
 Ask me: ["Web Dev"], ["Linux"], ["Tech"]
@@ -72,17 +72,16 @@ Description: A passionate self-taught full stack web developer
     System information
     ----------------------
     OS: Archcraft x86_64
-      · 20RAS0W500 ThinkPad E14
-    Kernel: 5.12.5-arch1-1
-    Shell: zsh 5.8
+    Device: 20RAS0W500 ThinkPad E14
+    Kernel: 5.19.1-arch2-1
+    Shell: zsh 5.9
     Resolution: 1920x1080
-    WM: bspwm
-    Theme: Plata-Noir-Compact [GTK2/3]
-    Terminal: kitty
-    Terminal Font: SourceCodePro semibold 13.0
+    WM: Openbox
+    Theme: Juno-mirage
+    Terminal: alacritty
     CPU: Intel i5-10210U (8) @ 4.200GHz
     GPU: Intel UHD Graphics
-    Memory: 2054MiB / 7634MiB
+  
 ```
 <br/>
 <br/>
