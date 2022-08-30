@@ -66,7 +66,7 @@ Description: A passionate self-taught full stack web developer
 <br/>
 <br/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjraj&show_icons=true&hide_border=true&theme=radical">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niranjRaj&show_icons=true&hide_border=true&theme=radical">
 
 ```yaml
     System information
