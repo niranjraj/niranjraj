@@ -24,7 +24,7 @@ Nickname: Kiki
 Gender: Male
 Age: 21
 education: Currently pursuing Bachelor's in Technology
-Hobbies:  ["Coding"], ["Movies"], ["Gaming"], ["Music"], ["Ricing"]
+Hobbies:  ["Coding"], ["Football"], ["Movies"], ["Gaming"], ["Music"], ["Ricing"]
 Ask me: ["Web Dev"], ["Linux"], ["Tech"]
 Occupation: Kerala,India
 Description: A passionate self-taught full stack web developer
@@ -71,7 +71,8 @@ Description: A passionate self-taught full stack web developer
 ```yaml
     System information
     ----------------------
-    OS: Arch Linux x86_64
+    OS: Archcraft x86_64
+      · 20RAS0W500 ThinkPad E14
     Kernel: 5.12.5-arch1-1
     Shell: zsh 5.8
     Resolution: 1920x1080
