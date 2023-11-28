@@ -12,17 +12,33 @@
 
 <br/>
 
-```yaml
+```go
+package main
 
-More about me
-------------------------------------------
-Name: Niranj
-Lastname: Raj
-Hobbies:  ["Coding"], ["Football"], ["Movies"], ["Gaming"], ["Music"], ["Ricing"]
-Ask me: ["Web Dev"], ["Linux"], ["Tech"]
-Occupation: Kerala,India
-Description: A passionate self-taught developer
+import "fmt"
 
+func main() {
+	niranjRaj := Profile{
+		Code:         []string{"Typescript", "Go", "Java", "Python"},
+		AskMeAbout:   []string{"Web Dev", "Tech",  "Manchester United"},
+		Technologies: Technologies{
+      FrontEnd: FrontEndTechnologies{
+      Sass: []string{"CSS"},
+      React: []string{"Typescript"},
+      NextJs: []string{"Typescript"},
+      },
+			BackEnd: BackEndTechnologies{
+				SpringBoot: []string{"Java"},
+        Fiber: []string{"Go"},
+        Express:[]string{"Js"},
+        Django:[]string{"Python"}
+			},
+			Databases:  []string{"Mongo", "MySql", "PostgresSql"},
+			Misc:       []string{"Prisma","Vim","S3","Redux"},
+		},
+		Architecture: []string{"MicroService applications", "Progressive web applications", "Single page applications"},
+    CurrentGoals: []string{"Learn Rust and Go","Be a git master","Understand the business and finance"}
+	}
 ```
 
 <br/>
