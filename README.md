@@ -1,15 +1,16 @@
-![Matrix SVG](./matrix.svg)
+![Matrix SVG](matrix.svg)
+
+
+
+
+
 
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Niranj Raj
-<p><em>Software Developer at <a href="https://www.ust.com">UST
-</a>
+<p><em>Software Developer at <a href="https://www.ust.com">UST</a>
 
-<div class="contact-container" align='center'>
-<div class="social-container insta-container"> <a class="insta-cl" href="https://www.instagram.com/_im_wheezing/">Instagram</a>
-</div>
-<div class="social-container linkedin-container"><a href="www.linkedin.com/in/niranj-rajesh-b97361196">LinkedIn</a></div>
-<div class="social-container web-container"><a href="www.niranjraj.me" >NiranjRaj.me</a></div>
-</div>
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.niranjraj.me)](https://www.niranjraj.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-niranjraj-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niranjraj/)
+
 
 <br/>
 
@@ -38,7 +39,8 @@ func main() {
 			Databases: []string{"Mongo", "MySql", "PostgresSql"},
 			Misc:      []string{"Prisma", "Vim", "S3", "Redux"},
 		},
-		Architecture: []string{"MicroService applications", "Progressive web applications", "Single page applications"},
+		Architecture: []string{"MicroService applications", "Progressive web applications",
+  				      "Single page applications"},
 		CurrentGoals: []string{"Learn Rust and Go", "Be a git master", "Understand the business and finance"},
 	}
 
